@@ -1,0 +1,12 @@
+*.meta
+*.md
+.vs/
+obj/
+APK/
+Library/
+Logs/
+Packages/
+ProjectSettings/
+Temp/
+UserSettings/
+*.vsconfig
